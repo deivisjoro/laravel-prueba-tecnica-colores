@@ -16,7 +16,7 @@
                     <h4>Uso de la Herramienta de Colores</h4>
                     <p>La herramienta de colores es fácil de usar y está diseñada para ofrecer resultados inmediatos y precisos:</p>
                     <ul>
-                        <li><strong>Acceder a la Herramienta:</strong> Navega a la sección "Colores" desde cualquier parte del sitio.</li>
+                        <li><strong>Acceder a la Herramienta:</strong> Navega a la sección "Compatibilidad de Colores" desde cualquier parte del sitio.</li>
                         <li><strong>Introducir Colores:</strong> En los campos provistos, introduce los códigos hexadecimales de los colores que deseas combinar. Asegúrate de que cada código comience con un símbolo de numeral (#) seguido de seis caracteres hexadecimales.</li>
                         <li><strong>Evaluar la Combinación:</strong> Una vez ingresados los colores, presiona el botón "Comprobar Compatibilidad" para ver el análisis de compatibilidad. El resultado te dirá qué tan bien combinan los colores según una escala del 0 al 1, donde 1 indica una combinación perfecta.</li>
                     </ul>
