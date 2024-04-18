@@ -20,7 +20,7 @@ Sigue los siguientes pasos para configurar el proyecto en tu entorno local:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/fashion-color-match.git```
+   git clone https://github.com/tu-usuario/fashion-color-match.git
 
 2. **Instala las dependencias de PHP con Composer**:
    ```bash
